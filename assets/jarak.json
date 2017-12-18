@@ -1,0 +1,38 @@
+data =
+{
+    "semarang": {
+        "semarang":0,
+        "jogjakarta":123,
+        "jakarta":452,
+        "bandung":449,
+        "surabaya":294
+    },
+    "jogjakarta": {
+        "semarang":123,
+        "jogjakarta":0,
+        "jakarta":522,
+        "bandung":521,
+        "surabaya":327
+    },
+    "jakarta": {
+        "semarang":452,
+        "jogjakarta":522,
+        "jakarta":0,
+        "bandung":149,
+        "surabaya":763
+    },
+    "bandung": {
+        "semarang":449,
+        "jogjakarta":521,
+        "jakarta":149,
+        "bandung":0,
+        "surabaya":762
+    },
+    "surabaya": {
+        "semarang":294,
+        "jogjakarta":327,
+        "jakarta":763,
+        "bandung":762,
+        "surabaya":0
+    }
+};
